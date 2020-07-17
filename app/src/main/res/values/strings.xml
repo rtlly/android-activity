@@ -9,8 +9,15 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
-    <string name="title_dynamicfeature">Module Title</string>
     <string name="button_1">button 1</string>
     <string name="button_2">button 2</string>
     <string name="button_3">button 3</string>
+    <string name="button_4">button 4</string>
+    <string name="button_5">button 5</string>
+    <string name="button_6">button 6</string>
+    <string name="button_7">button 7</string>
+    <string name="button_8">button 8</string>
+    <string name="button_9">button 9</string>
+    <string name="button_10">button 10</string>
+    <string name="layout_title">Android pratice</string>
 </resources>

@@ -132,7 +132,7 @@
         android:textColor="#1f4ba5"
         android:textSize="12sp"
         android:textAllCaps="false"
-        android:backgroundTint="@color/cardview_light_background"
+        android:backgroundTintMode="screen"
         android:background="@drawable/button_corner"
         app:layout_constraintTop_toBottomOf="@+id/fb_logo"
         app:layout_constraintStart_toStartOf="@+id/login"

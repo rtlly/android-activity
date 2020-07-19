@@ -23,4 +23,11 @@
     <string name="constraint_title">你好!</string>
     <string name="sign_up_button">注册</string>
     <string name="login_button">登录</string>
+    <string name="username_input_hint">用户名</string>
+    <string name="password_input_hint">密码</string>
+    <string name="remember_me">记住我</string>
+    <string name="forget_password">忘记密码?</string>
+    <string name="login">登录</string>
+    <string name="connect">或使用以下方式</string>
+    <string name="sign_up">用邮箱注册</string>
 </resources>

@@ -23,4 +23,11 @@
     <string name="constraint_title">Hello!</string>
     <string name="sign_up_button">Sign up</string>
     <string name="login_button">Login</string>
+    <string name="username_input_hint">Username</string>
+    <string name="password_input_hint">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">Login</string>
+    <string name="connect">or connect with</string>
+    <string name="sign_up">Sign Up with E-mail</string>
 </resources>

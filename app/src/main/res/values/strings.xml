@@ -30,4 +30,6 @@
     <string name="login">Login</string>
     <string name="connect">or connect with</string>
     <string name="sign_up">Sign Up with E-mail</string>
+    <string name="activity_practices">Activity Practices</string>
+    <string name="select_contract">Select Contract</string>
 </resources>

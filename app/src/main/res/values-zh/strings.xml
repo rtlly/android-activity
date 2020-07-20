@@ -30,4 +30,6 @@
     <string name="login">登录</string>
     <string name="connect">或使用以下方式</string>
     <string name="sign_up">用邮箱注册</string>
+    <string name="activity_practices">Activity 练习</string>
+    <string name="select_contract">选择联系人</string>
 </resources>

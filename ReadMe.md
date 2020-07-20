@@ -3,3 +3,8 @@
 ![image](https://github.com/rtlly/android-helloworld/blob/master/app/src/main/res/images/chinese.png)
 ![image](https://github.com/rtlly/android-helloworld/blob/master/app/src/main/res/images/scroll-en.png)
 ![image](https://github.com/rtlly/android-helloworld/blob/master/app/src/main/res/images/scroll-zh.png)
+![image](https://github.com/rtlly/android-activity/blob/master/app/src/main/res/images/activity-main.png)
+![image](https://github.com/rtlly/android-activity/blob/master/app/src/main/res/images/select-contract.png)
+![image](https://github.com/rtlly/android-activity/blob/master/app/src/main/res/images/contract-list.png)
+![image](https://github.com/rtlly/android-activity/blob/master/app/src/main/res/images/select-result.png)
+
